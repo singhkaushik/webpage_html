@@ -1,0 +1,39 @@
+body{margin: 0px;padding:0px ;}
+.header{ background-image: url(./bg.jpg);
+    height: 668px;background-color: rgba(0, 0, 0, 0.534)}
+.icon{margin-top: 20px;width: 300px;}
+.nav1{float:right;margin-top: 65px;}
+.nav1 a{text-decoration: none;margin-left: 15px;}
+.text_mid{text-align: center;color: white;}
+.button1{font-weight: bolder;font-size: 16px; border-radius: 15px;
+    height: 40px;width:220px; border: none;color:white;background-color:  rgb(255, 37, 37);}
+.button2{font-weight: bolder; font-size:16px;border-radius: 15px;
+    height: 40px;width:240px; border:none;color: rgb(255, 37, 37);background-color: white;}
+.button2:hover{background-color: rgb(255, 37, 37);color: white;}
+.button1:hover{background-color: black;}
+.wb{position:fixed;float: left;margin-top: 170px;}
+.para1{width: 64%; margin-left: 40px;}
+.para1 p{font-size: 19px;font-family:'Times New Roman', Times, serif;color:#323232}
+.enq1{margin-left: 70%; text-align: center;margin-top: -400px;}
+.mid_part{margin-top: 70px;}
+.send{border: none; border-radius: 18px;height: 40px;margin: 25px;padding: 10px;
+    width: 190px;background-color: rgb(255, 37, 37);color: white;}
+.join{border: none; border-radius: 18px;height: 40px;margin: 25px;padding: 10px;
+    width: 250px;background-color: rgb(255, 37, 37);color: white;}  
+.join:hover{background-color: black;} 
+.send:hover{background-color: black;}      
+.text{width: 90%;float: left; height: 35px;margin-top: 10px;border-radius: 8px;padding-left: 10px;text-overflow: ellipsis;}  
+.country{height:35px;float: left; margin-top: 10px;border-radius: 8px;width: 26%;padding-left: 10px;}
+.phone{height:35px;width: 61.5%; float: left; margin-top: 10px;margin-left: 10px; border-radius: 8px;padding-left: 10px;} 
+.text_mes{width: 90%;float: left; min-height: 90px;border-radius: 8px;padding-left: 10px;margin-top: 10px;}
+.call_time{width: 93.5%;float: left; height: 35px;margin-top: 10px;border-radius: 8px;padding-left: 10px;} 
+.p{text-align: center;margin-top: 70px;}
+.table tr td img{width:131px;border-radius: 50%;margin: 100px;}
+.table tr td{color: rgb(255, 37, 37);text-align: center; background-image: url(./prof1.jpg);}
+.table tr td:hover{background-image: none;}
+span{color: rgb(255, 37, 37);}
+.pa{text-align: center;margin-top: 70px;background-color: rgba(0, 0, 0, 0.692);color: white;}
+.p2{text-align: center;margin-top: 70px;background-color:whitesmoke;}
+.table2{margin:40px; text-align: center; font-size: 18px;}
+.table2 tr td{padding: 12px;}
+.enq2{width:450px; text-align: center;margin: 40px;margin-top: 70px;}
